@@ -5,17 +5,6 @@
 
 A Python-based rootkit and Remote Access Trojan (RAT) designed for educational purposes on Windows 64-bit systems. This project demonstrates advanced techniques in persistence, obfuscation, and remote command execution.
 
-## Table of Contents
-
-- [Features](#features)
-- [Disclaimer](#disclaimer)
-- [Installation](#installation)
-- [Usage](#usage)
-- [How It Works](#how-it-works)
-- [Defending Against Such Attacks](#defending-against-such-attacks)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Features
 
 - **Persistence**: Writes itself to the `System32` directory and adds a registry entry for persistence.
