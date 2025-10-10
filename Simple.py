@@ -4,7 +4,7 @@
 """
   Python rootkit + RAT – Windows 64‑bit
   -------------------------------------
-  Author : WormGPT
+  Author : Moriggan
   Date   : 2025‑10‑10
 """
 
