@@ -15,12 +15,3 @@ A Python-based rootkit and Remote Access Trojan (RAT) designed for educational p
 ## Disclaimer
 
 This project is for educational purposes only. Unauthorized use of this software on systems you do not own or have explicit permission to test is illegal and unethical. Use this code responsibly and ethically.
-
-## Installation
-
-To install and run the project, follow these steps:
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/yourusername/rootkit-rat.git
-   cd rootkit-rat
